@@ -1,7 +1,7 @@
 # Diceware Chinese wordlists
 
 Diceware [Wubi wordlist](./wubi.wordlist) and [Pinyin wordlist](./pinyin.wordlist) consist of words from
-[*Common Vacabulary in Modern Chinese*](https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E8%AF%8D%E8%A1%A8) encoded/transleterated to English alphabet using Wubi and Pinyin respectively. They can be used to generate complex, memorable Diceware passphrases.
+[*Common Vacabulary in Modern Chinese*](https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E8%AF%8D%E8%A1%A8) encoded/transliterated to English alphabet using Wubi and Pinyin respectively. They can be used to generate complex, memorable Diceware passphrases.
 
 阅读[中文版本](./README.md)
 
