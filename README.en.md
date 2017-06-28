@@ -1,7 +1,7 @@
 # Diceware Chinese wordlists
 
 Diceware [Wubi wordlist](./wubi.wordlist) and [Pinyin wordlist](./pinyin.wordlist) consist of words from
-[*Common Vacabulary in Modern Chinese*](https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E8%AF%8D%E8%A1%A8) encoded/transliterated to English alphabet using Wubi and Pinyin respectively. They can be used to generate complex, memorable Diceware passphrases.
+[*Common Vacabulary in Modern Chinese*](https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E8%AF%8D%E8%A1%A8) encoded/transliterated to English alphabet using Wubi and Pinyin (two most popular Chinese input methods) respectively. They can be used to generate complex, memorable Diceware passphrases.
 
 阅读[中文版本](./README.md)
 
@@ -31,7 +31,7 @@ but no complete Chinese wordlist can be found on the Internet as of June 2017. S
 ## 8k wordlists and passphrase generator
 
 Important, high-security passphrases should be generated with physical dice,
-but regular passphrases for average users may be generated on safe computers using appropriate apps without serious problems.
+but regular passphrases for average users may be generated on secure computers using appropriate apps without serious problems.
 However, to ensure uniform distribution of word choices, it's best to modify wordlists to have lengths of a power of 2.
 [Wubi8k wordlist](./wubi8k.wordlist) and [Pinyin8k wordlist](./pinyin8k.wordlist) are designed with this purpose in mind.
 
