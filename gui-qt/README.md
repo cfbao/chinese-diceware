@@ -1,6 +1,7 @@
 ## 中文密码生成器
 
-一个用 C++, [Qt](https://www.qt.io) 和 [libsodium](https://download.libsodium.org/doc/ "The Sodium crypto library") 写的跨平台的 Diceware 中文密码生成器。
+一个用 C++, [Qt](https://www.qt.io) 和 [libsodium](https://download.libsodium.org/doc/ "The Sodium crypto library") 写的跨平台的 Diceware 中文密码生成器。  
+Windows 版的可执行文件可以在 [release](https://github.com/cfbao/chinese-diceware/releases) 页面下载。
 
 Read this in [English](./README.en.md).
 

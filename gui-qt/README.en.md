@@ -1,6 +1,7 @@
 ## Chinese passphrase generator
 
-A cross-platform Chinese passphrase generator written in C++, using [Qt](https://www.qt.io) and [libsodium](https://download.libsodium.org/doc/ "The Sodium crypto library").
+A cross-platform Chinese passphrase generator written in C++, using [Qt](https://www.qt.io) and [libsodium](https://download.libsodium.org/doc/ "The Sodium crypto library").  
+Windows binary can be downloaded on the [release](https://github.com/cfbao/chinese-diceware/releases) page.
 
 阅读[中文版本](./README.md)
 

@@ -36,7 +36,8 @@ However, to ensure uniform distribution of word choices, it's best to modify wor
 [Wubi8k wordlist](./wubi8k.wordlist) and [Pinyin8k wordlist](./pinyin8k.wordlist) are designed with this purpose in mind.
 
 Based on these two 8k wordlists, I wrote a cross-platform [Chinese passphrase generator](./gui-qt) in C++, 
-using [Qt](https://www.qt.io/) and [libsodium](https://download.libsodium.org/doc/ "The Sodium crypto library"). Randomness of word choices are provided through libsodium's [random data generator](https://download.libsodium.org/doc/generating_random_data/ "Generating random data · libsodium").
+using [Qt](https://www.qt.io/) and [libsodium](https://download.libsodium.org/doc/ "The Sodium crypto library"). Randomness of word choices are provided through libsodium's [random data generator](https://download.libsodium.org/doc/generating_random_data/ "Generating random data · libsodium").  
+Windows binary can be downloaded on the [release](https://github.com/cfbao/chinese-diceware/releases) page.
 
 ## Sources
 
