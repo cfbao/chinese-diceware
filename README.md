@@ -29,3 +29,6 @@ Windows 版的可执行文件可以在 [release](https://github.com/cfbao/chines
 ## 文本来源
 * 现代汉语常用词表：[gist.github.com/indiejoseph](https://gist.github.com/indiejoseph/eae09c673460aa0b56db)，[华宇拼音输入法论坛](http://bbs.unispim.com/forum.php?mod=viewthread&tid=31393)
 * 五笔编码表：[rime/rime-wubi](https://github.com/rime/rime-wubi)
+
+## 许可协议
+所有词表（`*.wordlist` 文件）均内容按照 [知识共享 署名 4.0 许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh) 发行。密码生成器的程序源码按照 [GNU通用公共许可协议](https://www.gnu.org/licenses/gpl.html) 发行。

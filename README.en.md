@@ -1,7 +1,7 @@
 # Diceware Chinese wordlists
 
 Diceware [Wubi wordlist](./wubi.wordlist) and [Pinyin wordlist](./pinyin.wordlist) consist of words from
-[*Common Vacabulary in Modern Chinese*](https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E8%AF%8D%E8%A1%A8) encoded/transliterated to English alphabet using Wubi and Pinyin (two most popular Chinese input methods) respectively. They can be used to generate complex, memorable Diceware passphrases.
+[*Lexicon of Common Words in Contemporary Chinese*](https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E8%AF%8D%E8%A1%A8) encoded/transliterated to English alphabet using Wubi and Pinyin (two most popular Chinese input methods) respectively. They can be used to generate complex, memorable Diceware passphrases.
 
 阅读[中文版本](./README.md)
 
@@ -41,5 +41,10 @@ Windows binary can be downloaded on the [release](https://github.com/cfbao/chine
 
 ## Sources
 
-* Common Vacabulary in Modern Chinese: [gist.github.com/indiejoseph](https://gist.github.com/indiejoseph/eae09c673460aa0b56db)，[华宇拼音输入法论坛](http://bbs.unispim.com/forum.php?mod=viewthread&tid=31393)
+* Lexicon of Common Words in Contemporary Chinese: [gist.github.com/indiejoseph](https://gist.github.com/indiejoseph/eae09c673460aa0b56db)，[华宇拼音输入法论坛](http://bbs.unispim.com/forum.php?mod=viewthread&tid=31393)
 * Wubi encoding: [rime/rime-wubi](https://github.com/rime/rime-wubi)
+
+## Licenses
+
+Content of all wordlists (`*.wordlist` files) are licensed under [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/deed.en).
+Source code of passphrase generator apps is licensed under [GNU General Public License](https://www.gnu.org/licenses/gpl.html).
