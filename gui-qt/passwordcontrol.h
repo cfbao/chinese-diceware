@@ -31,11 +31,10 @@ private:
 private slots:
     void changeLength(int length);
     void changeType(int codeType, bool checked=true);
-    void request();
 signals:
     void lengthChanged(int length);
     void typeChanged(CodeType codeType);
-    void requested();
+    void request();
 };
 
 #endif // PASSWORDCONTROL_H

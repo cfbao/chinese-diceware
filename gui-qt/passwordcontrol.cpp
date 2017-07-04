@@ -74,8 +74,3 @@ void PasswordControl::changeType(int codeType, bool checked)
         emit typeChanged(static_cast<CodeType>(codeType));
     }
 }
-
-void PasswordControl::request()
-{
-    emit requested();
-}

@@ -14,7 +14,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
 
     connect(pwdControl, &PasswordControl::lengthChanged, pwdGen, &PasswordGenerator::setLength);
     connect(pwdControl, &PasswordControl::typeChanged,   pwdGen, &PasswordGenerator::setType);
-    connect(pwdControl, &PasswordControl::requested,     pwdGen, &PasswordGenerator::generatePassword);
+    connect(pwdControl, &PasswordControl::request,     pwdGen, &PasswordGenerator::generatePassword);
     connect(pwdGen, &PasswordGenerator::passwordChanged, pwdView, &PasswordView::displayPassword);
     connect(pwdGen, &PasswordGenerator::passwordChanged, wordSepView, &WordSepView::displayPassword);
     connect(pwdGen, &PasswordGenerator::passwordChanged, entropyView, &EntropyView::displayEntInfo);
